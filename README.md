@@ -1,0 +1,1 @@
+Replace "Matchstring" by the header you want to look for, such as "X-Mailer: YahooMailWebService"
